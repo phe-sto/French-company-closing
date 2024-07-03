@@ -1,0 +1,10 @@
+pandas
+plotly
+scikit-learn
+pyarrow
+#fastparquet
+jupyter
+ydata-profiling
+scikit-learn
+pycaret
+plotly

@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-07-03T08:42:27.925Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="VlJ4HOhYgYGzSTBqD8Ks" version="24.5.3" type="device">
+  <diagram name="Page-1" id="qhal7Y_iBo1fCzgQ2NpF">
+    <mxGraphModel dx="474" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/event_feed.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/iot_application.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/security_monitoring_intelligence.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/devops/continuous_deploy.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <mxPoint x="190" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="329.5" as="sourcePoint" />
+            <mxPoint x="430" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLeiqRh1LXycvlg1yoDb-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="329.5" as="sourcePoint" />
+            <mxPoint x="310" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
